@@ -1,0 +1,31 @@
+QUY ĐỊNH VỀ CẤU TRÚC CHƯƠNG TRÌNH ĐÀO TẠO
+
+
+
+Điều 5. Cấu trúc của chương trình đào tạo cử nhân
+
+1. Các ngành kỹ thuật và kiến trúc: Theo khung của tiêu chuẩn kiểm định ABET và của một số tổ chức kiểm định quốc tế.
+Toán và Khoa học tự nhiên (30 tín chỉ):
+- Toán: 15 tín chỉ.
+- Khoa học tự nhiên: 8 tín chỉ.
+- Các môn toán và Khoa học tự nhiên khác: 7 tín chỉ.
+Giáo dục chung (30 tín chỉ):
+- Kinh tế - Chính trị - Xã hội - Luật: 13 tín chỉ.
+- Giáo dục chung khác: 9 tín chỉ.
+- Ngoại ngữ: 8 tín chỉ.
+Cơ sở ngành/ Ngành/ Chuyên ngành (68-72 tín chỉ):
+- Cơ sở ngành/ Ngành/ Chuyên ngành: 60-64 tín chỉ.
+- Tốt nghiệp bậc cử nhân: 8 tín chỉ.
+Tổng tín chỉ: 128-132 tín chỉ.
+2. Các ngành quản lý: Theo khung của tiêu chuẩn kiểm định FIBAA
+Toán và Khoa học tự nhiên (12 tín chỉ):
+- Toán quản lý: 9 tín chỉ.
+- Khoa học tự nhiên: 3 tín chỉ.
+Giáo dục chung (30 tín chỉ):
+- Kinh tế - Chính trị - Xã hội - Luật: 13 tín chỉ.
+- Giáo dục chung khác: 9 tín chỉ.
+- Ngoại ngữ: 8 tín chỉ.
+Cơ sở ngành/ Ngành/ Chuyên ngành (86-90 tín chỉ):
+- Cơ sở ngành/ Ngành/ Chuyên ngành: 78-82 tín chỉ.
+- Tốt nghiệp bậc cử nhân: 8 tín chỉ.
+Tổng tín chỉ: 128-132 tín chỉ.

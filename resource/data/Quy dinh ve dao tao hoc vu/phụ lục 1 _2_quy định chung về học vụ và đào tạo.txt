@@ -1,0 +1,40 @@
+QUY ĐỊNH CHUNG VỀ HỌC VỤ VÀ ĐÀO TẠO
+PHỤ LỤC 1
+CẤU TRÚC MÃ SỐ NGƯỜI HỌC VÀ MÃ SỐ HỌC PHẦN
+
+2. Cấu trúc mã số học phần
+
+Mã số các học phần có dạng MMLXXX[T] trong đó MM là viết tắt của ngành/Khoa, L là cấp độ học phần, XXX là thứ tự học phần và T là hình thức học phần (nếu cần).
+L được hiểu như sau:
+1: Các học phần chung dành cho người học ở tất cả các năm học (người học từ năm thứ nhất)
+2: Các học phần cơ sở ngành bậc cử nhân (người học từ năm thứ hai)
+3: Các học phần ngành ở bậc cử nhân (người học từ năm thứ ba)
+4: Các học phần ngành/chuyên ngành/khoá luận tốt nghiệp ở bậc cử nhân (người học từ năm thứ tư)
+5 - 9: Các học phần ở bậc chuyên sâu đặc thù (người học từ năm thứ năm trong chương trình tích hợp từ bậc cử nhân lên bậc cao hơn, chương trình Kỹ sư Chất lượng cao Việt Pháp), ở bậc thạc sĩ và bậc tiến sĩ
+
+
+MM được viết tắt như sau:
+
+Nhóm các học phần chung:
+MT - Toán - MaThematics
+PH - Lý - PHysics
+CH - Hóa - CHemicals
+BI - Sinh học - BIologics
+SP - Chính trị-Xã hội - Social/Political science
+LA - Ngoại ngữ - Languages
+PE - Thể dục - Physical Educations
+MI - Quân sự - MIlitary trainning
+
+Nhóm các học phần theo Khoa:
+EE - Điện - Điện tử - Electrical & Electronics
+AS - Khoa học Ứng dụng - Applied Science
+CH - Kỹ thuật Hóa học - CHemicals
+CI - Kỹ thuật Xây dựng - CIvil
+CO - Khoa học và Kỹ thuật Máy tính -COmputer sci. & eng.
+EN - Môi trường và Tài nguyên - ENvironmental
+GE - Kỹ thuật Địa chất và Dầu khí - GEology
+IM - Quản lý Công nghiệp - Industrial Management
+ME - Kỹ thuật Cơ khí - MEchanical
+TR - Kỹ thuật Giao thông - TRansportation
+MA - Công nghệ Vật liệu - MAterials
+IU - Bảo dưỡng Công nghiệp - IUt

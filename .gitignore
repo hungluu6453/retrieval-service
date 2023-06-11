@@ -1,0 +1,7 @@
+.vscode
+venv
+__pycache__
+
+resource/vncorenlp
+resource/__pycache__
+

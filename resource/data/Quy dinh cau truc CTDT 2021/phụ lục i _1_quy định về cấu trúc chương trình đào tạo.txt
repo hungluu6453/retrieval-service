@@ -1,0 +1,22 @@
+QUY ĐỊNH VỀ CẤU TRÚC CHƯƠNG TRÌNH ĐÀO TẠO
+PHỤ LỤC I
+CÁC HỌC PHẦN CHUNG TRONG CHƯƠNG TRÌNH ĐÀO TẠO BẬC CỬ NHÂN,  CHƯƠNG TRÌNH KỸ SƯ CHẤT LƯỢNG CAO VIỆT PHÁP
+
+1. Các học phần chung
+
+Toán:
+- Đại số: 3 tín chỉ.
+- Giải tích 1: 4 tín chỉ.
+- Giải tích 2: 4 tín chỉ.
+- Xác suất và Thống kê: 4 tín chỉ.
+Khoa học tự nhiên:
+- Hoá đại cương: 3 tín chỉ.
+- Vật lý 1: 4 tín chỉ.
+- Thí nghiệm Vật lý: 1 tín chỉ.
+Các môn toán và Khoa học tự nhiên khác:
+- Phương pháp tính: 3 tín chỉ.
+- Vật lý 2: 4 tín chỉ.
+- Các môn toán và Khoa học tự nhiên khác
+Kinh tế - Chính trị - Xã hội - Luật:
+- Khối kiến thức giáo dục lý luận chính trị theo quy định của Bộ GD&ĐT: 11 tín chỉ.
+- Pháp luật Việt Nam đại cương: 2 tín chỉ.

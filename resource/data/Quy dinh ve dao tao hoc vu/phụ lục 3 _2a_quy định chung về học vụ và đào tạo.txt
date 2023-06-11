@@ -1,0 +1,71 @@
+QUY ĐỊNH CHUNG VỀ HỌC VỤ VÀ ĐÀO TẠO
+PHỤ LỤC 3
+KHEN THƯỞNG LÚC TỐT NGHIỆP
+
+2. Phân bổ số lượng huy chương tối đa
+
+2.1. Số lượng huy chương
+1. Khoa Bảo dưỡng Công nghiệp (Tổng số huy chương: 1):
+- Chương trình đại trà (Tổng: 1):
++ Vàng: 1.
++ Bạc: 0.
+- Chương trình Tài năng:
++ Vàng: 0.
+- Chương trình Chất lượng cao, Tiên tiến:
++ Vàng: 0.
+2. Khoa Kỹ thuật Cơ khí (Tổng số huy chương: 7):
+- Chương trình đại trà (Tổng: 5):
++ Vàng: 1.
++ Bạc: 4.
+- Chương trình Tài năng:
++ Vàng: 1.
+- Chương trình Chất lượng cao, Tiên tiến:
++ Vàng: 1.
+3. Khoa Kỹ thuật Địa chất và Dầu khí (Tổng số huy chương: 3):
+- Chương trình đại trà (Tổng: 2):
++ Vàng: 1.
++ Bạc: 1.
+- Chương trình Tài năng:
++ Vàng: 0.
+- Chương trình Chất lượng cao, Tiên tiến:
++ Vàng: 1.
+4. Khoa Điện - Điện tử (Tổng số huy chương: 7):
+- Chương trình đại trà (Tổng: 5):
++ Vàng: 1.
++ Bạc: 4.
+- Chương trình Tài năng:
++ Vàng: 1.
+- Chương trình Chất lượng cao, Tiên tiến:
++ Vàng: 1.
+5. Khoa Kỹ thuật Giao thông (Tổng số huy chương: 3):
+- Chương trình đại trà (Tổng: 2):
++ Vàng: 1.
++ Bạc: 1.
+- Chương trình Tài năng:
++ Vàng: 0.
+- Chương trình Chất lượng cao, Tiên tiến:
++ Vàng: 1.
+6. Khoa Kỹ thuật Hóa học (Tổng số huy chương: 5):
+- Chương trình đại trà (Tổng: 3):
++ Vàng: 1.
++ Bạc: 2.
+- Chương trình Tài năng:
++ Vàng: 1.
+- Chương trình Chất lượng cao, Tiên tiến:
++ Vàng: 1.
+7. Khoa Khoa học và Kỹ thuật Máy tính (Tổng số huy chương: 5):
+- Chương trình đại trà (Tổng: 3):
++ Vàng: 1.
++ Bạc: 2.
+- Chương trình Tài năng:
++ Vàng: 1.
+- Chương trình Chất lượng cao, Tiên tiến:
++ Vàng: 1.
+8. Khoa Môi trường và Tài nguyên (Tổng số huy chương: 3):
+- Chương trình đại trà (Tổng: 2):
++ Vàng: 1.
++ Bạc: 1.
+- Chương trình Tài năng:
++ Vàng: 0.
+- Chương trình Chất lượng cao, Tiên tiến:
++ Vàng: 1.

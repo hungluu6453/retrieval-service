@@ -1,0 +1,76 @@
+QUY ĐỊNH VỀ CẤU TRÚC CHƯƠNG TRÌNH ĐÀO TẠO
+PHỤ LỤC I
+CÁC HỌC PHẦN CHUNG TRONG CHƯƠNG TRÌNH ĐÀO TẠO BẬC CỬ NHÂN,  CHƯƠNG TRÌNH KỸ SƯ CHẤT LƯỢNG CAO VIỆT PHÁP
+
+2. Phân bổ các học phần chung trong các chương trình đào tạo
+
+Nhóm 1: Các Khoa Điện-Điện tử, Xây dựng, Giao thông, Vật liệu, Môi trường:
+Học kỳ 1:
+- Anh văn 1
+- Giải tích 1
+- Vật lý 1
+- Đại số
+- Thí nghiệm Vật lý
+- Nhập môn
+- Giáo dục Thể chất
+Học kỳ 2:
+- Anh văn 2
+- Giải tích 2
+- Hoá đại cương
+- Vật lý 2 (*)
+- Giáo dục Quốc phòng – An ninh
+- Giáo dục Thể chất
+Học kỳ 3:
+- Anh văn 3
+- Xác suất và Thống kê
+- Pháp luật Việt Nam đại cương
+Học kỳ 4:
+- Anh văn 4
+- Phương pháp tính  (*)
+- Triết học Mác-Lênin
+Học kỳ 5:
+- Kiến thức quản lý/ khởi nghiệp/ kỹ thuật khác
+- Kinh tế Chính trị Mác-Lênin
+Học kỳ 6:
+- Chủ nghĩa Xã hội Khoa học
+Học kỳ 7:
+- Tư tưởng Hồ Chí Minh
+Học kỳ 8:
+- Lịch sử Đảng Cộng sản Việt Nam
+
+Nhóm 2: Các Khoa Địa chất-Dầu khí, Hóa, Máy Tính, Quản lý Công nghiệp, Khoa học Ứng dụng, Cơ khí, Bảo dưỡng Công nghiệp:
+Học kỳ 1:
+- Anh văn 1
+- Giải tích 1
+- Vật lý 1
+- Hoá đại cương
+- Nhập môn
+- Giáo dục Thể chất
+Học kỳ 2:
+- Anh văn 2
+- Giải tích 2
+- Đại số
+- Thí nghiệm vật lý
+- Vật lý 2 (*)
+- Giáo dục Quốc phòng – An ninh
+- Giáo dục Thể chất
+Học kỳ 3:
+- Anh văn 3
+- Phương pháp tính  (*)
+- Triết học Mác-Lênin
+Học kỳ 4:
+- Anh văn 4
+- Xác suất và Thống kê
+- Kinh tế Chính trị Mác-Lênin
+Học kỳ 5:
+- Chủ nghĩa Xã hội Khoa học
+Học kỳ 6:
+- Kiến thức quản lý/ khởi nghiệp/ kỹ thuật khác
+- Tư tưởng Hồ Chí Minh
+Học kỳ 7:
+- Lịch sử Đảng Cộng sản Việt Nam
+Học kỳ 8:
+- Pháp luật Việt Nam đại cương
+
+(*) Hoặc các môn Toán và Khoa học tự nhiên khác
+

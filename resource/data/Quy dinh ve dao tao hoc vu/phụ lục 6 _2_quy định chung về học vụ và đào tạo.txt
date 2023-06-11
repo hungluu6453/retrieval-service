@@ -1,0 +1,13 @@
+QUY ĐỊNH CHUNG VỀ HỌC VỤ VÀ ĐÀO TẠO
+PHỤ LỤC 6
+THỜI HẠN VÀ ĐƠN VỊ PHỤ TRÁCH LƯU TRỮ TÀI LIỆU HỌC VỤ
+
+2. Một số trường hợp ngoại lệ
+
+1. Bảng điểm gốc các khóa bậc đại học từ khóa 1992 về trước:
+- Đơn vị phụ trách: Khoa
+2. Bảng điểm gốc bậc cao đẳng ngành Công nghệ Thông tin:
+- Đơn vị phụ trách: Khoa Khoa học và Kỹ thuật Máy tính
+3. Bảng điểm gốc bậc cao đẳng các khóa từ 2000 về trước ngành Bảo dưỡng Công nghiệp:
+- Đơn vị phụ trách: Trung tâm Bảo dưỡng Công nghiệp
+

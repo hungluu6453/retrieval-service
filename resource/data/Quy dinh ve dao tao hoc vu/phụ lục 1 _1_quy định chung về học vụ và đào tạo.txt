@@ -1,0 +1,18 @@
+QUY ĐỊNH CHUNG VỀ HỌC VỤ VÀ ĐÀO TẠO
+PHỤ LỤC 1
+CẤU TRÚC MÃ SỐ NGƯỜI HỌC VÀ MÃ SỐ HỌC PHẦN
+
+1. Cấu trúc mã số người học
+
+Mã số người học có dạng YYZXXXX, trong đó YY là hai số cuối của năm vào trường, Z là bậc đào tạo, hình thức đào tạo, chương trình ngay tại thời điểm nhập học, XXXX là số thứ tự.
+Z được quy định như sau:
+0: Cao đẳng
+1: Đại học đại trà
+2: Bằng 2
+3: Đại học hình thức vừa làm vừa học
+4: Đại học hình thức vừa làm vừa học các tỉnh, đào tạo từ xa
+5: Đại học chương trình Chất lượng cao, Tiên tiến, Chuyển tiếp quốc tế
+6: Trao đổi, tạm thời
+7: Học viên cao học
+8: Nghiên cứu sinh, dự bị tiến sĩ
+9: Học viên bồi dưỡng sau đại học

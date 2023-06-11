@@ -1,0 +1,37 @@
+QUY ĐỊNH VỀ ĐÀO TẠO TRÌNH ĐỘ TIẾN SĨ
+Chương 2
+CHƯƠNG TRÌNH ĐÀO TẠO
+
+Điều 10. Yêu cầu và cấu trúc của chương trình đào tạo
+
+10. Luận án tiến sĩ là kết quả nghiên cứu khoa học của nghiên cứu sinh, trong đó chứa đựng những đóng góp mới về lý luận và thực tiễn ở lĩnh vực chuyên môn, có giá trị trong việc phát triển, gia tăng tri thức khoa học và giải quyết vấn đề đặt ra của đề tài.
+a)Nghiên cứu sinh đã có bằng thạc sĩ, Ngành phù hợp, Tốt nghiệp dưới 5 năm:
+    -Học phần bổ sung, chuyển đổi: 0 TC
+    -Học phần trình độ tiến sĩ: 10 TC
+    -Tiểu luận tổng quan: 4 TC
+    -Chuyên đề tiến sĩ: 2×3 TC
+    -Luận án tiến sĩ: 70 TC
+b)Nghiên cứu sinh đã có bằng thạc sĩ, Ngành phù hợp, Tốt nghiệp trên 5 năm:
+    -Học phần bổ sung, chuyển đổi: 6 TC
+    -Học phần trình độ tiến sĩ: 10 TC
+    -Tiểu luận tổng quan: 4 TC
+    -Chuyên đề tiến sĩ: 2×3 TC
+    -Luận án tiến sĩ: 70 TC
+c)Nghiên cứu sinh đã có bằng thạc sĩ, Ngành gần, Tốt nghiệp dưới 5 năm:
+    -Học phần bổ sung, chuyển đổi: 9 TC
+    -Học phần trình độ tiến sĩ: 10 TC
+    -Tiểu luận tổng quan: 4 TC
+    -Chuyên đề tiến sĩ: 2×3 TC
+    -Luận án tiến sĩ: 70 TC
+d)Nghiên cứu sinh đã có bằng thạc sĩ, Ngành gần, Tốt nghiệp trên 5 năm:
+    -Học phần bổ sung, chuyển đổi: 9 + 6 TC
+    -Học phần trình độ tiến sĩ: 10 TC
+    -Tiểu luận tổng quan: 4 TC
+    -Chuyên đề tiến sĩ: 2×3 TC
+    -Luận án tiến sĩ: 70 TC
+e)Nghiên cứu sinh chỉ có bằng đại học (Ngành phù hợp):
+    -Học phần bổ sung, chuyển đổi: Theo CTĐT thạc sĩ tương ứng
+    -Học phần trình độ tiến sĩ: 10 TC
+    -Tiểu luận tổng quan: 4 TC 
+    -Chuyên đề tiến sĩ: 2×3 TC
+    -Luận án tiến sĩ: 70 TC

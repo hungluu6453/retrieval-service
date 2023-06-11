@@ -1,0 +1,55 @@
+QUY ĐỊNH CHUNG VỀ HỌC VỤ VÀ ĐÀO TẠO
+PHỤ LỤC 3
+KHEN THƯỞNG LÚC TỐT NGHIỆP
+
+2. Phân bổ số lượng huy chương tối đa
+
+2.1. Số lượng huy chương
+9. Khoa Quản lý Công nghiệp (Tổng số huy chương: 3):
+- Chương trình đại trà (Tổng: 2):
++ Vàng: 1.
++ Bạc: 1.
+- Chương trình Tài năng:
++ Vàng: 0.
+- Chương trình Chất lượng cao, Tiên tiến:
++ Vàng: 1.
+10. Khoa Khoa học Ứng dụng (Tổng số huy chương: 3):
+- Chương trình đại trà (Tổng: 2):
++ Vàng: 1.
++ Bạc: 1.
+- Chương trình Tài năng:
++ Vàng: 0.
+- Chương trình Chất lượng cao, Tiên tiến:
++ Vàng: 1.
+11. Khoa Công nghệ Vật liệu (Tổng số huy chương: 2):
+- Chương trình đại trà (Tổng: 2):
++ Vàng: 1.
++ Bạc: 1.
+- Chương trình Tài năng:
++ Vàng: 0.
+- Chương trình Chất lượng cao, Tiên tiến:
++ Vàng: 0.
+12. Khoa Kỹ thuật Xây dựng (Tổng số huy chương: 7):
+- Chương trình đại trà (Tổng: 5):
++ Vàng: 1.
++ Bạc: 4.
+- Chương trình Tài năng:
++ Vàng: 1.
+- Chương trình Chất lượng cao, Tiên tiến:
++ Vàng: 1.
+13. Chương trình Kỹ sư Chất lượng cao Việt-Pháp (Tổng số huy chương: 8):
+- Chương trình đại trà (Tổng: 8):
++ Vàng: 8.
++ Bạc: 0.
+- Chương trình Tài năng:
++ Vàng: 0.
+- Chương trình Chất lượng cao, Tiên tiến:
++ Vàng: 0.
+
+Điều kiện ràng buộc thêm:
+- Chương trình Chất lượng cao, Tiên tiến, Chương trình tài năng, Chương trình Kỹ sư Chất lượng cao Việt-Pháp chỉ xét tặng huy chương cho các Khoa có số lượng người học tốt nghiệp cùng đợt từ 10 trở lên.
+- Khi không có người học nào đạt tiêu chuẩn nhận huy chương vàng, số huy chương vàng sẽ được chuyển thành số huy chương bạc.
+2.2. Số lượng giấy khen
+- Giấy khen cho học vượt: không hạn chế số lượng;
+- Giấy khen cho người tốt nghiệp đầu khoá ngành của Chương trình Chất lượng cao, Tiên tiến: mỗi ngành tối đa một giấy khen. Trường hợp người học đồng thời được nhận được giấy khen người tốt nghiệp đứng đầu khoá ngành và huy chương, người sẽ được nhận huy chương và sẽ không xét giấy khen của khoá ngành cho người kế tiếp.
+- Giấy khen cho người tốt nghiệp đầu khoá ngành của hình thức đào tạo vừa làm vừa học: tối đa hai giấy khen cho hai người đứng đầu khoá ngành cho từng cơ sở và cơ sở liên kết đào tạo.

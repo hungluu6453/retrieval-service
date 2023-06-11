@@ -1,0 +1,25 @@
+QUY ĐỊNH VỀ CẤU TRÚC CHƯƠNG TRÌNH ĐÀO TẠO
+
+
+
+Điều 9. Cấu trúc của Chương trình đào tạo Thạc sĩ
+
+Thạc sĩ hướng ứng dụng:
+- Khối kiến thức đa ngành, tổng quát: 9 tín chỉ.
+- Khối kiến thức cơ sở ngành/chuyên ngành: 12 tín chỉ.
+- Khối kiến thức bắt buộc chuyên ngành: 12 tín chỉ.
+- Khối kiến thức tự chọn chuyên ngành: 12 tín chỉ.
+- Khối kiến thức tốt nghiệp (15 tín chỉ):
++ Đồ án, chuyên đề Nghiên cứu khoa học: không bắt buộc.
++ Thực tập: 6 tín chỉ.
++ Đồ án tốt nghiệp / Luận văn thạc sĩ: 9 tín chỉ.
+Thạc sĩ hướng nghiên cứu:
+- Khối kiến thức đa ngành, tổng quát: 6 tín chỉ.
+- Khối kiến thức cơ sở ngành/chuyên ngành: 12 tín chỉ.
+- Khối kiến thức bắt buộc / tự chọn chuyên ngành: 15 tín chỉ.
+- Khối kiến thức tốt nghiệp (27 tín chỉ):
++ Đồ án, chuyên đề Nghiên cứu khoa học: 12 tín chỉ.
++ Thực tập: không bắt buộc.
++ Đồ án tốt nghiệp / Luận văn thạc sĩ: 15 tín chỉ.
+
+Các chương trình đào tạo trình độ Thạc sĩ khác được thực hiện theo Quy chế đào tạo trình độ Thạc sĩ của Đại học Quốc gia Thành phố Hồ Chí Minh.

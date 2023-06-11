@@ -1,0 +1,14 @@
+QUY ĐỊNH VỀ CẤU TRÚC CHƯƠNG TRÌNH ĐÀO TẠO
+
+
+
+Điều 3. Khối lượng học tập
+
+1. Khối lượng học tập đối với từng trình độ giáo dục đại học để cấp bằng tốt nghiệp như sau:
+- Trình độ Đại học; tốt nghiệp bằng Cử nhân; khối lượng học tập: 123 - 132 tín chỉ.
+- Trình độ Chuyên sâu đặc thù-Thạc sĩ; tốt nghiệp bằng Kỹ sư-Thạc sĩ hoặc Kiến trúc sư-Thạc sĩ; khối lượng học tập: 158 - 163 tín chỉ (chương trình Kỹ sư Chất lượng cao Việt-Pháp); 180 tín chỉ (chương trình liên thông Cử nhân-Kỹ sư-Thạc sĩ); 60 tín chỉ đối với người có trình độ đại học.
+- Trình độ Thạc sĩ; tốt nghiệp bằng Thạc sĩ; khối lượng học tập: 60 tín chỉ đối với người có trình độ đại học.
+- Trình độ Tiến sĩ; tốt nghiệp bằng Tiến sĩ; khối lượng học tập: 90 tín chỉ đối với người có trình độ thạc sĩ; 120 tín chỉ đối với người có trình độ đại học.
+
+Khối lượng học tập này chưa bao gồm khối lượng giáo dục thể chất, giáo dục quốc phòng - an ninh theo quy định.
+2. Khối lượng học tập của hai ngành phải khác nhau ít nhất 30 tín chỉ; của hai chuyên ngành của cùng một ngành khác nhau từ 9-15 tín chỉ. Khối lượng học tập tối thiểu đối với các chương trình đào tạo song ngành phải cộng thêm 30 tín chỉ, đối với chương trình đào tạo ngành chính - ngành phụ phải cộng thêm 15 tín chỉ so với chương trình đào tạo đơn ngành tương ứng.
