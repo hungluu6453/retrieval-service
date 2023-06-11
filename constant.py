@@ -53,17 +53,25 @@ DOCUMENT_LIST_SINHVIEN = [
 ]
 
 DOC_LIST = [DOCUMENT_LIST_TIENSI, DOCUMENT_LIST_THACSI, DOCUMENT_LIST_SINHVIEN]
-OUT_PATH = ["./resource/index/phd", "./resource/index/master", "./resource/index/undergraduate"]
-
+# OUT_PATH = ["./resource/index/phd", "./resource/index/master", "./resource/index/undergraduate"]
+OUT_PATH = [
+    "7_model_repository/4_context_retriever/phd",
+    "7_model_repository/4_context_retriever/master",
+    "7_model_repository/4_context_retriever/undergraduate"
+]
 ROLE_MAP ={
     'phd': 0,
     'master': 1,
     'undergraduate': 2,
 }
 
-ANNOTATOR_PATH = 'resource/vncorenlp/VnCoreNLP-1.2.jar'
+VNCORENLP_PATH = '7_model_repository/0_vncorenlp'
+VNCORENLP_MODEL_PATH = '7_model_repository/0_vncorenlp/VnCoreNLP-1.2.jar'
+
+ANNOTATOR_PATH = '7_model_repository/0_vncorenlp/VnCoreNLP-1.2.jar'
 CLASSIFIER_PATH = 'resource/reranking_model/svm_model_09062023.sav'
 LM_PATH = "ancs21/xlm-roberta-large-vi-qa"
 
 QUESTION_DATA_PATH = 'resource/question_retrieval_data/question_retrieval_data.csv'
-QUESTION_INDEX = 'resource/question_index'
+# QUESTION_INDEX = 'resource/question_index'
+QUESTION_INDEX = "7_model_repository/3_question_retriever"

@@ -1,4 +1,4 @@
-
+import os
 import pickle
 import string
 import tensorflow as tf

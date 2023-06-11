@@ -14,7 +14,8 @@ from vncorenlp import VnCoreNLP
 # best_document = corpus[np.argmax(similarities)]
 
 CURRENT_DIR = os.getcwd()
-VNCORENLP_PATH = constant.ANNOTATOR_PATH
+VNCORENLP_PATH = constant.VNCORENLP_PATH
+VNCORENLP_MODEL_PATH = constant.VNCORENLP_MODEL_PATH
 
 class BM25Gensim:
     def __init__(self, data=None):
@@ -23,12 +24,14 @@ class BM25Gensim:
         self.load_annotator()
 
     def load_annotator(self):       
-        vncorenlp_dir = os.path.join(CURRENT_DIR, VNCORENLP_PATH) 
+        os.chdir("..")
+        CURRENT_DIR = os.getcwd()
+        vncorenlp_dir = os.path.join(CURRENT_DIR, VNCORENLP_PATH)
         if not os.path.exists(vncorenlp_dir):
             os.makedirs(vncorenlp_dir)
             py_vncorenlp.download_model(save_dir=VNCORENLP_PATH)
-        vncorenlp_dir = constant.ANNOTATOR_PATH
-        self.annotator = VnCoreNLP(vncorenlp_dir, annotators='wseg')
+        self.annotator = VnCoreNLP(VNCORENLP_MODEL_PATH, annotators='wseg')
+        os.chdir("6_retriever_service")
 
     def create_model(self, output_path, k=1.5, b=0.75):
         dictionary = Dictionary(self.corpus)
@@ -48,9 +51,13 @@ class BM25Gensim:
         bm25_index.save(output_path + "/bm25_index")
 
     def load_model(self, checkpoint_path):
+        os.chdir("..")
+        cur_dir = os.getcwd()
+        checkpoint_path = os.path.join(cur_dir, checkpoint_path)
         self.dictionary = Dictionary.load(checkpoint_path + "/dict")
         self.tfidf_model = TfidfModel.load(checkpoint_path + "/tfidf")
         self.bm25_index = SparseMatrixSimilarity.load(checkpoint_path + "/bm25_index")
+        os.chdir("6_retriever_service")
 
     def preprocess(self, text):
         exclude = set(string.punctuation)
