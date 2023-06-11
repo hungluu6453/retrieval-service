@@ -6,8 +6,11 @@ import numpy as np
 import pandas as pd
 
 from pprint import pprint
+from tensorflow import keras
+from tensorflow.keras import backend as K
 from tensorflow.keras.layers import GlobalAveragePooling1D
-from sklearn import svm
+import tensorflow_addons as tfa
+# from sklearn import svm
 from typing import Any
 from transformers import TFAutoModelForQuestionAnswering, AutoTokenizer
 
@@ -52,7 +55,13 @@ class RetrieverModule:
         self.tokenizer = AutoTokenizer.from_pretrained(constant.LM_PATH)
         self.language_model = TFAutoModelForQuestionAnswering.from_pretrained(constant.LM_PATH, from_pt=True).roberta
         self.pooling = GlobalAveragePooling1D()
-        self.classifier = pickle.load(open(constant.CLASSIFIER_PATH, 'rb'))
+        # self.classifier = pickle.load(open(constant.CLASSIFIER_PATH, 'rb'))
+        os.chdir("..")
+        cur_dir = os.getcwd()
+        checkpoint_path = os.path.join(cur_dir, constant.CLASSIFIER_PATH)
+        self.classifier = keras.models.load_model(checkpoint_path)
+        os.chdir("6_retriever_service")
+
     
     def load_question_retriver(self):
         self.question_retriever = BM25Gensim()
@@ -71,7 +80,9 @@ class RetrieverModule:
         if not self.useRerank:
             return contexts[:self.top_return].tolist(), paragraph_ids[:self.top_return].tolist()
         else:
-            top_index =  self.rerank(question, contexts)
+            top_index, score =  self.rerank(question, contexts)
+            print(top_index)
+            print(score)
             return contexts[top_index].tolist(), paragraph_ids[top_index].tolist()
 
     def rerank(self, question, contexts):
@@ -88,9 +99,11 @@ class RetrieverModule:
 
         emebdded_data = self.language_model(encoded_data)
         pooling_data = self.pooling(emebdded_data[0])
-        pred = self.classifier.decision_function(pooling_data)
+        # pred = self.classifier.decision_function(pooling_data)
+        # return np.argsort(pred, axis=-1)[::-1][:self.top_return]
 
-        return np.argsort(pred, axis=-1)[::-1][:self.top_return]
+        pred = self.classifier(pooling_data)
+        return np.argsort(np.max(pred, axis=-1), axis=-1)[::-1][:self.top_return], pred
     
     def retrieve_question(self, question):
         indexes, _ = self.question_retriever.get_top_result(question, topk=3)

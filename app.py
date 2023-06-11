@@ -22,7 +22,7 @@ app.add_middleware(
 )
 
 
-model = RetrieverModule(useRerank=False, K=5, top_return=3)
+model = RetrieverModule(useRerank=True, K=5, top_return=3)
 
 class Request_Item(BaseModel):
     role: str # phd master udergraduate
@@ -34,7 +34,7 @@ class Response_Item(BaseModel):
     context: List
     paragraph_id: List
     isFAQ: bool
-    # execution_time: float
+    execution_time: float
 
 
 @app.post("/bkheart/api/retrieve")
@@ -54,7 +54,7 @@ def retrieve(Request: Request_Item):
         context=context,
         paragraph_id=paragraph_id,
         isFAQ=isFAQ,
-        # execution_time=round(time.time()-start_time, 4),
+        execution_time=round(time.time()-start_time, 4),
     )
 
 

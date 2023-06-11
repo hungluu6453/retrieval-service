@@ -69,7 +69,7 @@ VNCORENLP_PATH = '7_model_repository/0_vncorenlp'
 VNCORENLP_MODEL_PATH = '7_model_repository/0_vncorenlp/VnCoreNLP-1.2.jar'
 
 ANNOTATOR_PATH = '7_model_repository/0_vncorenlp/VnCoreNLP-1.2.jar'
-CLASSIFIER_PATH = 'resource/reranking_model/svm_model_09062023.sav'
+CLASSIFIER_PATH = '7_model_repository/5_reranker'
 LM_PATH = "ancs21/xlm-roberta-large-vi-qa"
 
 QUESTION_DATA_PATH = 'resource/question_retrieval_data/question_retrieval_data.csv'
